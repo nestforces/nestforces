@@ -10,7 +10,7 @@
 
 <img align="right" height="150" src="https://pbs.twimg.com/media/FfWRqXcXwAIZqVI?format=jpg&name=medium"  />
 
-###
+### Skills :
 
 <div align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="30" alt="sqlite logo"  />
 </div>
 
-###
+### Technologies and Framework UI :
 
 <br clear="both">
 
@@ -58,7 +58,7 @@
   <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge" height="40" alt="materialui logo"  />
 </div>
 
-###
+### Contacts :
 
 <div align="left">
   <a href="mailto:maulanamahfud2113@gmail.com" target="_blank">
