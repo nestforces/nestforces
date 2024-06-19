@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Maulana <br>and I'm a Full Stack Developer</h2>
+<h2 align="left">Hi 👋! My name is Maulana</h2>
 
 ###
 
